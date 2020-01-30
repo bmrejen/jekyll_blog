@@ -2,17 +2,11 @@
 
 ![](../images/avatar-photo.jpg)
 
-Hi! I am Emma Brewer. I am an art director & graphic designer based in New York City working on branding, visual identities, editorial design and web design.
-
-Visit this website to see my work!
+Hi! I am Ben. I studied business in France and worked in Russia and Japan. I have been in Shanghai for 7 years and am now learning to make robots. 
 
 ## My background
 
-I was born in a nice city called..
-
-## Previous work
-
-I'm a paragraph. Edit the page on Gitlab to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.​
+I grew up in Saint Lucia, in the Caribbean, to French parent.
 
 ### Project A
 
