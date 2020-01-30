@@ -2,7 +2,7 @@
 site_name: Fab Academy Student Name
 site_description: My Fabacademy site
 
-site_author: Your name here
+site_author: Benoit Mrejen
 docs_dir: docs
 site_dir: _site
 copyright: Creative Commons Attribution Non Commercial
@@ -21,13 +21,9 @@ theme:
 extra:
   social:
     - type: "github"
-      link: "https://github.com/academany"
-    - type: "twitter"
-      link: "https://twitter.com/fabacademany"
+      link: "https://github.com/bmrejen"
     - type: "linkedin"
-      link: "https://linkedin.com/in/academany"
-    - type: "instagram"
-      link: "https://instagram.com/fabacademany"
+      link: "https://linkedin.com/in/bmrejen"
 
 markdown_extensions:
   - extra
