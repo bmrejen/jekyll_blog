@@ -1,6 +1,6 @@
 # Home
 
-## Hello, new student!
+## Hello, this is Ben's page!
 
 ![](./images/week01/assignment-photo.jpg)
 
