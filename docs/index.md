@@ -2,7 +2,7 @@
 
 ## Hello, this is Ben's page!
 
-![](./images/week01/assignment-photo.jpg)
+![](https://avatars0.githubusercontent.com/u/20118433)
 
 ## Welcome to your new Fab Academy site
 
