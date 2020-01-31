@@ -5,8 +5,7 @@ cache:
   paths:
    - vendor/
 before_script:
-        #  - gem update --system && gem install bundler && bundle config set path 'vendor' && bundler update --bundler && bundle install
-        - require 'bundler' && require 'bundler/setup' && bundle config set path 'vendor' && bundle install
+         - gem update --system && gem uninstall bundler && rm /usr/local/bin/bundle && rm /usr/local/bin/bundler && gem install bundler && bundle config set path 'vendor' && bundle && bundle update --bundler
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
