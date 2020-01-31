@@ -12,7 +12,20 @@ pages:
   script:
    - bundle exec jekyll build -d public/
   artifacts:
-     paths:
-       - public
+    paths:
+    - public
   only:
    - master # this job will affect only the 'master' branch
+
+test:
+  stage: test
+  script:
+   - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+    - test
+  except:
+   - master
+
+exclude:
+  - vendor
