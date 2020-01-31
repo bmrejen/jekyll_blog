@@ -1,5 +1,7 @@
 # requiring the environment of Ruby 2.3.x
 image: ruby:2.5.1
+variables:
+    JEKYLL_ENV: production  
 # add bundle cache to 'vendor' for speeding up builds
 cache:
   paths:
