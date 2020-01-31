@@ -44,11 +44,11 @@ plugins:
 #
 exclude:
   - vendor
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - gulpfile.js
-  - package.json
+  # - Gemfile
+  # - Gemfile.lock
+  # - node_modules
+  # - gulpfile.js
+  # - package.json
   #   - .sass-cache/
   #   - .jekyll-cache/
   #   - gemfiles/
