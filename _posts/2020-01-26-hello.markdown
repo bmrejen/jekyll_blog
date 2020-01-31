@@ -1,6 +1,5 @@
 ---
 layout: post
 title:  "Hello!"
-categories: jekyll update
 ---
 This is my first manually-created post on Jekyll
