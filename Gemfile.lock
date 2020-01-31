@@ -73,6 +73,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 2.1.2)
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
